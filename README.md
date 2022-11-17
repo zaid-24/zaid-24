@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,web development and computer vision...
 - 🌱 I’m currently learning machine learning , neural network .
 - 💞️ I’m looking to collaborate on interesting project
-- 📫 How to reach me ...
+- 📫 How to reach me: ik241168@gmail.com
 
 <!---
 jamesbond2003/jamesbond2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
