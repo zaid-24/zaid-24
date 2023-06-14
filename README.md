@@ -10,9 +10,9 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 - I am an Undergraduate Student at IIT Kharagpur
-- 👀 I’m a MERN Stack Developer and have a great interest in Machine Learning and have explored deeply in the field of Computer Vision and NLP.
-- 🌱 I’m currently learning about Reinforcement Learning and Something in the new stuff in the field of robotics.
-- 💞️ I’m looking to collaborate on interesting project
+- 👀 I’m a MERN Stack Developer and have a great interest in the field of Machine Learning, Computer Vision and NLP.
+- 🌱 I’m currently learning about Reinforcement Learning and some new stuff about robotics.
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: ik241168@gmail.com
 
 <br/>
