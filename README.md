@@ -19,20 +19,13 @@
 <br/>
 
 
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
-#
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zaid-24&theme=sunset-gradient&card_width=570"/>
-</p>
 
 <!-- [![GitHub Streak]()](https://git.io/streak-stats) -->
+
 #
 <br/>
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -45,7 +38,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid-24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zaid-24&theme=sunset-gradient&card_width=806"/>
+</p>
+
 </details>
+
+
 
 # 💻 Tech Stack:
 
